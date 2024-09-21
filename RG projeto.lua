@@ -35,8 +35,8 @@ local function GetProgressBar(Attribute)
     
 end
 
--- cartão 
-print("===============================================================")
+-- frente - cartão
+print("================================================================")
 print("| -----------------------")
 print("| Informações Base: ")
 print("|")
@@ -53,7 +53,27 @@ print("| Ataque:       " .. GetProgressBar(BaseAttack))
 print("| Velocidade:   " .. GetProgressBar(BaseSpeed))
 print("| Inteligência: " .. GetProgressBar(BaseIntelligence))
 print("| -----------------------")
-print("===============================================================")
+print("================================================================")
+
+--verso cartão
+print("================================================================")
+print("|🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥")
+print("| Alerta!  :Se deixar ele muito irritado,ele fica com chama azul")
+print("|")
+print("| Fraquezas:Água🌊 , Elétrico⚡e Pedra🪨 ")
+print("|")
+print("| Evoluções: Charizard > Charmeleon > Charmander")
+print("|")
+print("|")
+print("|")
+print("|")
+print("|")
+print("|")
+print("|")
+print("|")
+print("|")
+print("|🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥")
+print("================================================================")
 
 
 
